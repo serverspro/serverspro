@@ -62,6 +62,6 @@ I am a computer engineering student, currently halfway through my degree. I am e
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=mijailsdev&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/mijailsdev)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=mijailsdev&theme=material-palenight)](https://github.com/mijailsdev)
+[![](https://github-readme-stats.vercel.app/api?username=serverspro&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/serverspro)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=serverspro&theme=material-palenight)](https://github.com/serverspro)
 </div>
